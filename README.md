@@ -26,9 +26,10 @@ Junior Frontend ReactJS Developer.
 
 | Preview | Description |
 |---|---|
-| <img src="https://joytop.uz/static/media/logo.e6fa5e4a.svg" alt="Joytop.uz page preview" width="250"/><br>[Project source](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6](https://joytop.uz/)) | **Search and booking** <br>Search and booking of hotels, cottages, recreation areas, apartments and houses, tours, extreme sports and much more in Uzbekistan.<br><br> <a href="https://github.com/rasool-frontdev/joytop.uz-clone">🧾 Repo</a> - <a href="https://joytopuz-clone.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 6 more hours<br><br> **Characteristic:** Sign up, sign in, book a place, searching(or sort) place
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Simple Instagram preview" width="250"/><br>[Project source](https://www.instagram.com) | **Simple Instagram clone** <br>Instagram clone is a photo and video sharing social networking service <br><br> <a href="https://github.com/rasool-frontdev/insta-clone">🧾 Repo</a> - <a href="https://simple-insta.netlify.app" target="_blank">🌐 Netlify</a> - ⌚ 10 soat<br><br> **Characteristic:** Sign up, sign in, add a post, delete a post, update profile, follow, unfollow, show statistics  |
-**<a href="https://rasool-frontdev" target="_blank">💼 All projects</a>**
+| <img src="https://joytop.uz/static/media/logo.e6fa5e4a.svg" alt="Joytop.uz page preview" width="250"/><br>[Project source](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6](https://joytop.uz/)) | **Search and booking** <br>Search and booking of hotels, cottages, recreation areas, apartments and houses, tours, extreme sports and much more in Uzbekistan.<br><br> <a href="https://github.com/rasool-frontdev/joytop.uz-clone">🧾 Repo</a> - <a href="https://joytopuz-clone.netlify.app/" target="_blank">🌐 Netlify</a> <br><br> **Characteristic:** Sign up, sign in, book a place, searching(or sort) place
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Simple Instagram preview" width="250"/><br>[Project source](https://www.instagram.com) | **Simple Instagram clone** <br>Instagram clone is a photo and video sharing social networking service <br><br> <a href="https://github.com/rasool-frontdev/insta-clone">🧾 Repo</a> - <a href="https://simple-insta.netlify.app" target="_blank">🌐 Netlify</a>  <br><br> **Characteristic:** Sign up, sign in, add a post, delete a post, update profile, follow, unfollow, show statistics 
+|**<a href="https://rasool-frontdev" target="_blank">💼 All projects</a>**
+
 
 
 ## Connect with me:
