@@ -1,4 +1,4 @@
-# Gasirbek(Rasool) Tayjanov
+# Rasool Tayjanov
 
 Junior Frontend ReactJS Developer. 
 
