@@ -1,6 +1,6 @@
-# Rasool Tayjanov
+# rasOoL
 
-Junior Frontend ReactJS Developer. 
+ ReactJS Developer. 
 
 [💬 Telegram](https://t.me/rasooL_tele) | 📧 rasool_frontdev@mail.ru
 
