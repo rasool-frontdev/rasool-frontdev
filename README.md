@@ -6,7 +6,7 @@
 💻 I’m a dedicated frontend developer specializing in React. I love creating dynamic and responsive web applications that provide a seamless user experience. Check out my projects below to see what I’ve been working on!
 <br/><br/>
 🌱 I’m currently diving into Next.js and Three.js for exciting new projects! 🚀
-
+<br/>
 ⚡ Fun fact: When I'm not coding, you'll often find me enjoying a game of football⚽ with friends or exploring new hiking trails!🌲
 
 </div>
