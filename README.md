@@ -29,7 +29,7 @@
 <br/>
 <h2 align="center">📊 Stats 📊</h2>
 <div align="center">
-  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasool-frontdev&count_private=true&langs_count=8&layout=donut&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=00000000" alt="top langs" />
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasool-frontdev&count_private=true&langs_count=10&layout=donut&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=00000000" alt="top langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=rasool-frontdev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=00000000" alt="readme stats" />
   <br/>
   <img width="390" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasool-frontdev&count_private=true&theme=react&border_radius=10&background=00000000" alt="streak stats"/>
