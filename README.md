@@ -24,7 +24,7 @@
 
 | Preview | Description |
 |---|---|
-| <img src="https://joytop.uz/static/media/logo.e6fa5e4a.svg" alt="Joytop.uz page preview" width="250"/><br> | **Discover and Reserve Your Ultimate Uzbekistan Experience!** <br>Search and book hotels, cottages, resorts, apartments, houses, tours, extreme sports, and much more in Uzbekistan.<br><br>🌐<a href="https://app.mazgi.uz/" target="_blank">Joytop.uz</a> <br><br> **Characteristics:** Sign up, sign in, book a place, search (or sort) places, post a place, control dashboard, leave a comment.
+| <img src="https://joytop.uz/logo.png" alt="Joytop.uz page preview" width="250"/><br> | **Discover and Reserve Your Ultimate Uzbekistan Experience!** <br>Search and book hotels, cottages, resorts, apartments, houses, tours, extreme sports, and much more in Uzbekistan.<br><br>🌐<a href="https://app.mazgi.uz/" target="_blank">Joytop.uz</a> <br><br> **Characteristics:** Sign up, sign in, book a place, search (or sort) places, post a place, control dashboard, leave a comment.
 | <img src="https://scolaro.uz/assets/logo-b16fbff6.svg" alt="Joytop.uz page preview" width="250"/><br>| **Empowering Student Success: Your Gateway to University Consulting and Applications** <br>The website offers expert consulting services to students, helping them find the right university and navigate the application process with ease. Universities can also showcase their programs and streamline admissions through the platform..<br><br> 🌐<a href="https://https://scolaro.uz/" target="_blank">Scolaro.uz</a> <br><br> **Characteristics:** Sign up, sign in, book a place, search (or sort) places, leave a comment
 <br/>
 <h2 align="center">📊 Stats 📊</h2>
